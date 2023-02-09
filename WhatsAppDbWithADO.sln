@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsAppDbWithADO", "WhatsAppDbWithADO\WhatsAppDbWithADO.csproj", "{984BF423-EAB4-4EB0-B25C-EFE7DD3267A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsAppLib", "WhatsAppLib\WhatsAppLib.csproj", "{C135E6E0-9441-417A-BE92-0A5670EB8186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{984BF423-EAB4-4EB0-B25C-EFE7DD3267A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984BF423-EAB4-4EB0-B25C-EFE7DD3267A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984BF423-EAB4-4EB0-B25C-EFE7DD3267A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984BF423-EAB4-4EB0-B25C-EFE7DD3267A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C135E6E0-9441-417A-BE92-0A5670EB8186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C135E6E0-9441-417A-BE92-0A5670EB8186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C135E6E0-9441-417A-BE92-0A5670EB8186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C135E6E0-9441-417A-BE92-0A5670EB8186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC7789EF-2A3E-4135-9138-D158561B4C60}
+	EndGlobalSection
+EndGlobal

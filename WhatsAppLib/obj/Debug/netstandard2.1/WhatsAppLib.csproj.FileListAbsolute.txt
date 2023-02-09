@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\bin\Debug\netstandard2.1\WhatsAppLib.deps.json
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\bin\Debug\netstandard2.1\WhatsAppLib.dll
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\bin\Debug\netstandard2.1\WhatsAppLib.pdb
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\obj\Debug\netstandard2.1\WhatsAppLib.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\obj\Debug\netstandard2.1\WhatsAppLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\obj\Debug\netstandard2.1\WhatsAppLib.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\obj\Debug\netstandard2.1\WhatsAppLib.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\obj\Debug\netstandard2.1\WhatsAppLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\obj\Debug\netstandard2.1\WhatsAppLib.dll
+C:\Users\Admin\source\repos\WhatsAppDbWithADO\WhatsAppLib\obj\Debug\netstandard2.1\WhatsAppLib.pdb
